@@ -1,7 +1,7 @@
 # One-Class Classification for Anomaly Detection on CIFAR-10
 
 ## Overview
-This repository contains the implementation of a one-class classification project for anomaly detection on the CIFAR-10 dataset, as part of the BLC 5484E course at Istanbul Technical University. The project focuses on identifying anomalies using airplane images as the normal class and other classes (e.g., cars, dogs) as anomalies. We implemented **Deep Support Vector Data Description (Deep SVDD)** with a ResNet18 encoder and compared it against classical models: **One-Class SVM** and **Isolation Forest**.
+This repository contains the implementation of a one-class classification project for anomaly detection on the CIFAR-10 dataset, as part of the BLG 454E course at Istanbul Technical University. The project focuses on identifying anomalies using airplane images as the normal class and other classes (e.g., cars, dogs) as anomalies. We implemented **Deep Support Vector Data Description (Deep SVDD)** with a ResNet18 encoder and compared it against classical models: **One-Class SVM** and **Isolation Forest**.
 
 The project includes a Jupyter notebook with the implementation, a project report, a presentation, and a representation video summarizing the work.
 
